@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\KarthikeyanRaja\\OneDrive - Syncfusion\\Desktop\\Assignments\\IfStatement\\IfStatement.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\KarthikeyanRaja\\OneDrive - Syncfusion\\Desktop\\Assignments\\IfStatement\\IfStatement.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\KarthikeyanRaja\\OneDrive - Syncfusion\\Desktop\\Assignments\\IfStatement\\IfStatement.csproj",
+        "projectName": "IfStatement",
+        "projectPath": "c:\\Users\\KarthikeyanRaja\\OneDrive - Syncfusion\\Desktop\\Assignments\\IfStatement\\IfStatement.csproj",
+        "packagesPath": "C:\\Users\\KarthikeyanRaja\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\KarthikeyanRaja\\OneDrive - Syncfusion\\Desktop\\Assignments\\IfStatement\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\KarthikeyanRaja\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
